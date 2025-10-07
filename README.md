@@ -4,8 +4,8 @@ I'm a passionate **Computer Engineering undergraduate** (4th year) with hands-on
 
 ## 💻 Skills & Tools
 - **Languages:** Java, Python, HTML, CSS
-- **Frontend:** React, Next.js, TailwindCSS
-- **Backend:** Express.js
+- **Frontend:** React, TailwindCSS
+- **Backend:** Node.js, Express.js
 - **Databases:** MongoDB, MySQL
 
 ## 📸 Hobbies
