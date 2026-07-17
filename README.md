@@ -15,7 +15,7 @@ I'm a passionate **Computer Engineering undergraduate** (4th year) with hands-on
 Currently, I'm exploring full-stack development projects, learning new frameworks, and always up for collaborating with fellow tech enthusiasts.
 
 ## 📫 Connect with Me
-- [GitHub](https://github.com/nemasha-demel)
+- [LinkedIn](www.linkedin.com/in/nemasha-hirushi-de-mel-112749254)
 - [Portfolio](https://nemasha.netlify.app/) 
 
 ---
